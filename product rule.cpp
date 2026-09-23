@@ -9,7 +9,7 @@ int main(){
 	cout<<"value of b is="<<endl;
 	cin>>b;
 
-	cout<<"Product of a*b="<<a*b<<endl;
+
 	
 	return 0;
 }
