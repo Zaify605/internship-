@@ -6,7 +6,7 @@ int main(){
 	cin>>x;
 	cin>>y;
 	
-	cout<<"product is="<<x*y<<endl;
+	cout<<"product is="<<x<<endl;
 	cout<<"division is="<<x/y<<endl;
 	cout<<"addition is="<<x+y<<endl;
 	cout<<"sutraction is="<<x-y<<endl;
